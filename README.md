@@ -18,6 +18,8 @@ The goal is to leverage real-world transportation data to:
 
 All analysis is implemented in a single Google Colab notebook and version-controlled in this repository.
 
+### All "TO DO" steps in google colab are provided by the colab creator and answered by me.
+### Google Colab Executed Link: [NYC_Traffic_TDSP](https://colab.research.google.com/drive/15DWn3xisJco_j2x582eO1Krr-wSUvAYg?usp=sharing)
 ---
 
 ## 🧠 Key Research Questions
